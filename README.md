@@ -1,6 +1,6 @@
 # 🤖 Baymax – Your Personal Wellness Companion
 
-Baymax is a mental wellness chatbot built using **Streamlit** and **Gemini AI**. Inspired by the lovable healthcare robot from *Big Hero 6*, Baymax offers emotional support, mindfulness tips, and tracks your mood to help you feel better 💙
+Baymax is a mental wellness chatbot built using **Streamlit** and **Gemini AI**. Inspired by the lovable healthcare robot from *Big Hero 6*, Baymax offers emotional support, mindfulness tips, and tracks your mood to help you feel better 
 
 ## 🧠 Features
 - 💬 Empathetic AI conversations using Google Gemini
